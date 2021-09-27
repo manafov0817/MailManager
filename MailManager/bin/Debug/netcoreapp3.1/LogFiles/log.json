@@ -1,0 +1,4 @@
+{"Timestamp":"2021-09-27T16:38:58.6464128+04:00","Level":"Warning","MessageTemplate":"Mail Consumer starts.","Properties":{"SourceContext":"MailManager.MailConsumer","MachineName":"WINDOWS-EHNNMHA","ProcessId":21700,"ThreadId":1}}
+{"Timestamp":"2021-09-27T16:39:18.1058890+04:00","Level":"Warning","MessageTemplate":"Mail Consumer is stopping.","Properties":{"SourceContext":"MailManager.MailConsumer","MachineName":"WINDOWS-EHNNMHA","ProcessId":21700,"ThreadId":7}}
+{"Timestamp":"2021-09-27T16:39:18.1224656+04:00","Level":"Warning","MessageTemplate":"Mail Consumer starts.","Properties":{"SourceContext":"MailManager.MailConsumer","MachineName":"WINDOWS-EHNNMHA","ProcessId":21700,"ThreadId":1}}
+{"Timestamp":"2021-09-27T16:39:29.6074034+04:00","Level":"Warning","MessageTemplate":"Mail Consumer is stopping.","Properties":{"SourceContext":"MailManager.MailConsumer","MachineName":"WINDOWS-EHNNMHA","ProcessId":21700,"ThreadId":8}}
